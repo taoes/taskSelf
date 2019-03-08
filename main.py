@@ -1,13 +1,7 @@
 #!/usr/bin/env python3
 import argparse
-from pyperclip import copy
-import json
+from tasks import *
 import files
-import time
-
-
-
-
 
 if __name__ == '__main__':
     files.init()
