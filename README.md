@@ -52,3 +52,15 @@ TaskSelf 是一款运行在Unix系统中的任务管理工具，它可是以帮�
 
 
 目前正处于开发中，欢迎ISSUSE 
+
+## 版本
++ V0.1:  
+
+
+## 二次开发
+如果你需要二次开发，你可以在Pycharm或者其他IDE上打开此项目
+当然这里使用了一些第三方的支持库，你需要先安装后才能使用
+
++ pip3 install pyinstaller
++ pip3 install argparse
++ pip3 install pyperclip
